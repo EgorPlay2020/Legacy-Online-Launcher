@@ -1,4 +1,5 @@
 ![Windows](https://img.shields.io/badge/Windows-10%2B-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-Supported-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 > [!IMPORTANT]
 **Legacy Online Launcher** — это лаунчер для подключения к приватному серверу Just Dance.  

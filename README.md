@@ -1,9 +1,9 @@
 ![Windows](https://img.shields.io/badge/Windows-10%2B-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-Supported-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-> [!IMPORTANT]
-**Legacy Online Launcher** — это лаунчер для подключения к приватному серверу Just Dance.  
-Проект распространяется бесплатно и не связан с Ubisoft.
+> [!IMPORTANT]  
+**Legacy Online Launcher** is a launcher for connecting to a private Just Dance server.  
+This project is free and is not affiliated with Ubisoft.
 
 ### [Download](../../releases/latest)
 
@@ -26,22 +26,22 @@
 
 ## 📥 What the launcher can do
 
-- Авторизация в аккаунте  
-- Отображение профиля игрока  
-- Просмотр песен сервера  
-- Просмотр плейлистов  
-- Скачивание игры (Steam / Ubisoft версии)  
-- Запуск игры через лаунчер  
+- Account authentication  
+- Display player profile  
+- Browse server songs  
+- View server playlists  
+- Download the game (Steam / Ubisoft versions)  
+- Launch the game through the launcher  
 
 ---
 
 ## 🛠 Installation
 
-1. Скачать `.exe` из **Releases**
-2. Запустить лаунчер  
-3. Войти в аккаунт  
-4. Скачать игру (если не установлена)  
-5. Играть  
+1. Download the `.exe` from **Releases**  
+2. Run the launcher  
+3. Log into your account  
+4. Download the game (if not installed)  
+5. Play  
 
 ---
 

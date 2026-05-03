@@ -7,7 +7,7 @@
 
 ### [Download](../../releases/latest)
 
-![preview](assets/screen1.png)
+![preview]([assets/screen1.png](https://www.dropbox.com/scl/fi/p1jxiay58eu0d7283ed11/prev.png?rlkey=1an24ld58xb71obhjy442pqis&st=e79m8frd&raw=1)
 
 ---
 

@@ -7,7 +7,7 @@
 
 ### [Download](../../releases/latest)
 
-![preview](https://www.dropbox.com/scl/fi/p1jxiay58eu0d7283ed11/prev.png?rlkey=1an24ld58xb71obhjy442pqis&dl=1)
+![preview](https://entergamestudio.com/jdlo/prev.png)
 
 ---
 
